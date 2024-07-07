@@ -2,15 +2,15 @@
 <br />
 <p align="center">
   <a href="https://github.com/adrbn/CopyWeb">
-    <img src="images/copyweb_logo.png" alt="Logo" width="150" height="150">
+    <img src="images/copyweb_logo.png" alt="Logo" width="250" height="250">
   </a>
 
   <p align="center">
     A simple tool to download and save webpages locally!
-    <br />
+    <br/>
     <a href="https://github.com/adrbn/CopyWeb"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    <br/>
+    <br/>
     <a href="https://github.com/adrbn/CopyWeb">View Demo</a>
     ·
     <a href="https://github.com/adrbn/CopyWeb/issues">Report Bug</a>

@@ -2,10 +2,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/adrbn/CopyWeb">
-    <img src="images/copyweb_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/copyweb_logo.png" alt="Logo" width="150" height="150">
   </a>
-
-  <h3 align="center">CopyWeb</h3>
 
   <p align="center">
     A simple tool to download and save webpages locally!
